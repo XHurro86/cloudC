@@ -1,4 +1,4 @@
-/* Estilos Generales */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -24,7 +24,7 @@ ul {
     padding: 0;
 }
 
-/* Header */
+
 header {
     background: #333;
     color: #fff;
@@ -79,7 +79,7 @@ header a:hover {
     background: #5588cc;
 }
 
-/* Hero Section */
+
 .hero {
     background: #555 url('https://via.placeholder.com/1500x500?text=Fondo+Hoodies') no-repeat center center/cover;
     color: #fff;
@@ -96,7 +96,7 @@ header a:hover {
     font-size: 1.2em;
 }
 
-/* Products Section */
+
 .products {
     padding: 40px 0;
     text-align: center;
@@ -185,7 +185,7 @@ header a:hover {
     min-height: 100px;
 }
 
-/* Footer */
+
 footer {
     background: #333;
     color: #fff;
